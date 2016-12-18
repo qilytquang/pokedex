@@ -26,7 +26,7 @@ class PokeCell: UICollectionViewCell {
         self.pokemon = pokemon
         
         self.thumbImg.image = UIImage(named: "\(self.pokemon.pokedexId)")
-        self.nameLbl.text = self.pokemon.name
+        self.nameLbl.text = self.pokemon.name.capitalized
     }
     
 }
