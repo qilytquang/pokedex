@@ -20,6 +20,7 @@
 		7475AD141E06E2CF0057C027 /* music.png in Resources */ = {isa = PBXBuildFile; fileRef = 7475AD131E06E2CF0057C027 /* music.png */; };
 		7475AD161E06EAB10057C027 /* music.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7475AD151E06EAB10057C027 /* music.mp3 */; };
 		7475AD181E06F80D0057C027 /* PokemonDetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7475AD171E06F80D0057C027 /* PokemonDetailsVC.swift */; };
+		7475AD1A1E0705FD0057C027 /* back.png in Resources */ = {isa = PBXBuildFile; fileRef = 7475AD191E0705FD0057C027 /* back.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		7475AD131E06E2CF0057C027 /* music.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = music.png; sourceTree = "<group>"; };
 		7475AD151E06EAB10057C027 /* music.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = music.mp3; sourceTree = "<group>"; };
 		7475AD171E06F80D0057C027 /* PokemonDetailsVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PokemonDetailsVC.swift; sourceTree = "<group>"; };
+		7475AD191E0705FD0057C027 /* back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = back.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +118,7 @@
 				7475AD0E1E06D9110057C027 /* pokemon.ttf */,
 				7475AD131E06E2CF0057C027 /* music.png */,
 				7475AD151E06EAB10057C027 /* music.mp3 */,
+				7475AD191E0705FD0057C027 /* back.png */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -192,6 +195,7 @@
 				7475ACFD1E06A0690057C027 /* LaunchScreen.storyboard in Resources */,
 				7475ACFA1E06A0690057C027 /* Assets.xcassets in Resources */,
 				7475AD051E06A97F0057C027 /* pokemon.csv in Resources */,
+				7475AD1A1E0705FD0057C027 /* back.png in Resources */,
 				7475ACF81E06A0690057C027 /* Main.storyboard in Resources */,
 				7475AD161E06EAB10057C027 /* music.mp3 in Resources */,
 				7475AD141E06E2CF0057C027 /* music.png in Resources */,
